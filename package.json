@@ -4,8 +4,10 @@
   "description": "",
   "main": "expresso.js",
   "scripts": { 
-    "start": "node expresso.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node expresso.js"
+  },
+  "engines": {
+    "node": "0.12.7"
   },
   "author": "",
   "license": "ISC",
